@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/intro-gsap/static/css/main.9b5e0852.chunk.css",
+    "main.js": "/intro-gsap/static/js/main.ee5608cf.chunk.js",
+    "main.js.map": "/intro-gsap/static/js/main.ee5608cf.chunk.js.map",
+    "runtime-main.js": "/intro-gsap/static/js/runtime-main.855f1dbb.js",
+    "runtime-main.js.map": "/intro-gsap/static/js/runtime-main.855f1dbb.js.map",
+    "static/js/2.84ab9dc3.chunk.js": "/intro-gsap/static/js/2.84ab9dc3.chunk.js",
+    "static/js/2.84ab9dc3.chunk.js.map": "/intro-gsap/static/js/2.84ab9dc3.chunk.js.map",
+    "static/js/3.45a43cc2.chunk.js": "/intro-gsap/static/js/3.45a43cc2.chunk.js",
+    "static/js/3.45a43cc2.chunk.js.map": "/intro-gsap/static/js/3.45a43cc2.chunk.js.map",
+    "index.html": "/intro-gsap/index.html",
+    "static/css/main.9b5e0852.chunk.css.map": "/intro-gsap/static/css/main.9b5e0852.chunk.css.map",
+    "static/js/2.84ab9dc3.chunk.js.LICENSE.txt": "/intro-gsap/static/js/2.84ab9dc3.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/intro-gsap/static/media/sax-phone.e46e079c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.855f1dbb.js",
+    "static/js/2.84ab9dc3.chunk.js",
+    "static/css/main.9b5e0852.chunk.css",
+    "static/js/main.ee5608cf.chunk.js"
+  ]
+}
