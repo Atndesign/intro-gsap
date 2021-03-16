@@ -1,0 +1,23 @@
+@import "./_partials/reset";
+@import "./_partials/fonts";
+@import "./_partials/variables";
+@import "./_partials/responsive.scss";
+@import "./_partials/responsiveClasses.scss";
+
+//Default
+a,
+p,
+h1,
+h2,
+label {
+  font-family: $font-family-base;
+  color: white;
+}
+body,
+.App {
+  height: 100vh;
+}
+
+//Components
+@import "./components/introScreen.scss";
+//Common
